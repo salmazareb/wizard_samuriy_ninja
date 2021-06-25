@@ -1,0 +1,12 @@
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/bin/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.deps.json
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/bin/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.runtimeconfig.json
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/bin/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.runtimeconfig.dev.json
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/bin/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.dll
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/bin/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.pdb
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.csprojAssemblyReference.cache
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.AssemblyInfoInputs.cache
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.AssemblyInfo.cs
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.csproj.CoreCompileInputs.cache
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.dll
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.pdb
+/Users/salomh_q/Desktop/Wizard-Ninj-Samurai/obj/Debug/netcoreapp3.1/Wizard-Ninj-Samurai.genruntimeconfig.cache
